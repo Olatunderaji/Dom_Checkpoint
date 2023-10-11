@@ -164,20 +164,20 @@ const shoppingCart = [
         //      quantity.innerHTML = product.quantity
         // });
 
-//      // add increment, decrement and quantity to btn container
-//      btnContainer.appendChild(increment);
-//      btnContainer.appendChild(quantity);
-//      btnContainer.appendChild(decrement);
+     // add increment, decrement and quantity to btn container
+     btnContainer.appendChild(increment);
+     btnContainer.appendChild(quantity);
+     btnContainer.appendChild(decrement);
  
-//      // add btn container to product info container
-//      productInfo.appendChild(btnContainer);
+     // add btn container to product info container
+     productInfo.appendChild(btnContainer);
  
-//       // add productContainer to shopping container
-//       shoppingContainer.appendChild(productContainer); 
+      // add productContainer to shopping containerr
+      shoppingContainer.appendChild(productContainer); 
 
-//       Total()
+      Total()
 
-//     } 
+    } 
 
 // }
 
