@@ -172,7 +172,7 @@ const shoppingCart = [
      // add btn container to product info container
      productInfo.appendChild(btnContainer);
  
-      // add productContainer to shopping container
+      // add productContainer to shopping containerr
       shoppingContainer.appendChild(productContainer); 
 
       Total()
